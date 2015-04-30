@@ -19,6 +19,13 @@ npm install -g videocast
 cast /path/to/file
 ```
 
+### Controls
+
+* Up arrow: increase volume
+* Down arrow: decrease volume
+* Space: pause/resume
+* Ctrl+C: stop and quit
+
 ## This is a work in progress!
 
 ### What's working
