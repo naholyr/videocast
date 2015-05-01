@@ -21,8 +21,8 @@ cast /path/to/file
 
 ### Controls
 
-* Up arrow: increase volume
-* Down arrow: decrease volume
+* Up/Down: increase/decrease volume
+* Left/Right: seek -/+ 30 seconds (seems not to be working)
 * Space: pause/resume
 * Ctrl+C: stop and quit
 
