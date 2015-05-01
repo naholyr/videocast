@@ -31,11 +31,11 @@ cast /path/to/file
 ### What's working
 
 * Converting and casting to local first Chromecast found (conversion is not a gadget, tested on lots of files, without conversion many have no sound)
-* Control sound on a Linux terminal
+* Controls on a Linux terminal
 
 ### What's planned
 
-* More controls (forward, backward, pause)
+* Find out why 'seek' is not working
 * Check other platforms (different key codes? crappy encodings? who knows...)
 * CLI options (start time, ffmpeg output)
 * Remove dependency to ffmpeg (if possible)
