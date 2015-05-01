@@ -6,13 +6,12 @@ var getDevice = require("../lib/device");
 var ffmpegOutput = process.env.DEBUG ? process.stdout : null;
 
 
-console.log("Looking for Chromecast device...");
+console.log("Searching Chromecast devices...");
 
 getDevice()
 
 .then(function (device) {
-  console.log("Found!");
-  console.log("Streaming to Chromecast...");
+  console.log("Streaming to '%s'...", device.config.name);
   return device;
 })
 
