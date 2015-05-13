@@ -16,5 +16,13 @@
   "bin": {
     "cast": "bin/cast.js"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/naholyr/videocast.git"
+  },
+  "bugs": {
+    "url": "https://github.com/naholyr/videocast/issues"
+  },
+  "homepage": "https://github.com/naholyr/videocast"
 }
