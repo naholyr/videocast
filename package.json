@@ -1,6 +1,6 @@
 {
   "name": "videocast",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Send video files to your Chromecast from your CLI, control volume, seek, pause, stop... from your terminal",
   "main": "index.js",
   "scripts": {
